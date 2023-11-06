@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Trivia</string>
+
+    <string name="question_text">The Capital of Nepal is Kathmandu</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+
+    <string name = "correct_toast">Correct Answer!</string>
+    <string name = "incorrect_toast">Incorrect Answer!</string>
+
+
+</resources>
