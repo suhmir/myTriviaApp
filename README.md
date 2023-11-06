@@ -1,5 +1,5 @@
 # myTriviaApp
-app for general quizzes regarding capitals 
+app for general quizzes - T or F 
 
 
 Relatively simple Android app using Java. 
